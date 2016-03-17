@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bes",
+				"best_folding"
+			],
+			[
+				"best",
+				"best_folding_ever"
+			],
+			[
+				"Num",
+				"NumberOfLoops"
+			],
+			[
+				"N",
+				"NumberOfGeneration"
+			],
+			[
+				"matrix",
+				"matrix_rotated"
+			],
+			[
+				"matri",
+				"matrix_rotated"
+			],
+			[
+				"mass",
+				"mass_center"
+			],
+			[
+				"z",
+				"z_axis"
+			],
+			[
+				"point",
+				"PointXYZRGB"
+			],
+			[
+				"PointXYZ",
+				"PointXYZRGBA"
+			],
+			[
+				"rev",
+				"reviewer"
+			],
+			[
+				"au",
+				"author_colleagues"
+			],
+			[
+				"autor",
+				"author_organizations"
+			],
+			[
+				"autocomlete",
+				"autocomplete-suggestion"
+			],
+			[
+				"sho",
+				"shortName"
+			],
+			[
+				"short",
+				"short_name"
+			],
+			[
+				"appro",
+				"approver_id"
+			],
+			[
+				"submitt",
+				"submitted_time"
+			],
+			[
+				"tra",
+				"tracks"
+			],
+			[
+				"conf",
+				"conferences"
+			],
+			[
+				"up",
+				"uploader_id"
+			],
+			[
+				"submiss",
+				"submissions_group_by_tracks"
+			],
+			[
+				"num",
+				"num_of_track"
+			],
+			[
+				"curret",
+				"current_user"
+			],
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"pagina",
+				"pagination2"
+			],
+			[
+				"track",
+				"num_of_track"
+			],
+			[
+				"my",
+				"my_submissions"
+			],
+			[
+				"confere",
+				"conference"
+			],
+			[
+				"cofer",
+				"conferences_result_date"
+			],
+			[
+				"cone",
+				"conferences"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"con",
+				"conference_id"
+			],
+			[
+				"my_",
+				"my_reviews_papers"
+			],
+			[
+				"revi",
+				"reviewers"
+			],
+			[
+				"auth",
+				"authors_list"
+			],
+			[
+				"your",
+				"your_json"
+			],
+			[
+				"current",
+				"current_user"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hw1.py",
+			"settings":
+			{
+				"buffer_size": 11773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sylarcp/Desktop/robotvision/Source.cpp",
+		"/Users/sylarcp/Desktop/robotvision/mainz.cpp",
+		"/Users/sylarcp/Desktop/robotvision/main1.cpp",
+		"/Users/sylarcp/udMIS/conf-main/app/modules/submission/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/modules/review/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/models.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_review_assignment.html",
+		"/Users/sylarcp/udMIS/conf-main/app/static/inspinia/tabs.html",
+		"/Users/sylarcp/udMIS/conf-main/app/api/papers.py",
+		"/Users/sylarcp/udMIS/conf-main/app/modules/main/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_request.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conferences_setting.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/base.html",
+		"/Users/sylarcp/udMIS/conf-main/app/__init__.py",
+		"/Users/sylarcp/udMIS/conf-main/app/conference/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/main/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/api/__init__.py",
+		"/Users/sylarcp/udMIS/conf-main/app/api/conferences.py",
+		"/Users/sylarcp/Downloads/untitled.html",
+		"/Users/sylarcp/Library/Application Support/Sublime Text 2/Packages/User/pep8_autoformat.sublime-settings",
+		"/Users/sylarcp/udMIS/conf-main/app/review/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/review/review_assignment.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/review/reviews_my.html",
+		"/Users/sylarcp/udMIS/conf-main/app/submission/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_my.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conferences_search.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conferences_detail.html",
+		"/Users/sylarcp/udMIS/conf-main/app/conference/forms.py",
+		"/Users/sylarcp/udMIS/conf-main/app/paper/views.py",
+		"/Users/sylarcp/udMIS/conf-main/manage.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_edit.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/review/review_add.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_add.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/submission/submission_add.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/submission/submissions_my.html",
+		"/Users/sylarcp/udMIS/conf-main/app/submission/forms.py",
+		"/Users/sylarcp/udMIS/conf-main/app/paper/forms.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/conference/conference_all.html",
+		"/Users/sylarcp/udMIS/conf-main/app/api/tracks.py",
+		"/Users/sylarcp/udMIS/conf-main/app/review/forms.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/review/review_decision.html",
+		"/Users/sylarcp/udMIS/conf-main/app/review/__init__.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/profile.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/review/reviews_all.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/user_search.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/decline.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/submission/submissions_all.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/_macros.html",
+		"/Users/sylarcp/udMIS/conf-main/app/static/conferency/css/style.css",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/assignment_manual.html",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/_modal_user.html",
+		"/Users/sylarcp/udMIS/conf-main/app/auth/forms.py",
+		"/Users/sylarcp/udMIS/conf-main/app/auth/views.py",
+		"/Users/sylarcp/udMIS/conf-main/app/macros.py",
+		"/Users/sylarcp/udMIS/conf-main/app/templates/dashboard.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/setcurrconfid",
+			"/setcurrconfid\"",
+			"current_user.curr_conf_id ",
+			"track",
+			"init__",
+			"track",
+			"init",
+			"class conference(",
+			"track",
+			"translation",
+			"location",
+			"track-edit",
+			"tab-2",
+			"track-edit",
+			"add-track",
+			"tab",
+			"cout",
+			"mass_center",
+			"center",
+			".z",
+			"->po",
+			"coordinate",
+			"viewer->>add",
+			"coor",
+			"viewer",
+			"normal",
+			"cloud_filtered",
+			"track",
+			"filter_by",
+			"status",
+			"coeff",
+			"viewer",
+			"final",
+			"coefficients",
+			"rotational_matrix_OBB",
+			"Eigen",
+			"getx",
+			"coefficients",
+			"feature_extractor",
+			"point_type",
+			"viewer",
+			"could_f",
+			"simplevis",
+			"simple",
+			"point_type",
+			"pcl::PointXYZ",
+			"pcl::PointXYz",
+			"pcl::PointXYZRGB",
+			"getMinMax3D",
+			"plane",
+			"xyz",
+			"current_user.papers.",
+			"current_user.papers",
+			"chair",
+			"Administration",
+			"can",
+			"/api",
+			"redirect(url_for('.index')",
+			"redirect(url_for('main.index')",
+			"testing",
+			"redirect(url_for('main.index')",
+			"/test",
+			"test",
+			"tab-1",
+			"/test",
+			"curr_conf",
+			"/assignm",
+			"url_for",
+			"url",
+			"curr_conf",
+			"api",
+			"admin",
+			"swal",
+			"ajax",
+			"ajsx",
+			"api",
+			"reviewers",
+			"man",
+			"reviewersDiv",
+			"modalReviewers",
+			"swal",
+			"warning",
+			"assignment",
+			"panel",
+			"curPanel",
+			"authorSearch",
+			"tooltip",
+			"co_author_warning",
+			"organization",
+			"tooltip",
+			"position",
+			"red",
+			"\"col-s-",
+			"\"col-s-10",
+			"addReviewer",
+			"tooltip",
+			"reviewer_container",
+			"tooltip",
+			"modalReviewers",
+			"tooltip",
+			"remove",
+			"Add",
+			"add",
+			"tooltip",
+			"toggle",
+			"row",
+			"paper_author",
+			"openModal",
+			"consol",
+			"myModal",
+			"reviewer_autocomplete",
+			"openModal",
+			"reviewer_autocomplete",
+			"myModal",
+			"paper",
+			"autocomplete",
+			"autocomplete_reviewer",
+			"current",
+			"papers_revi",
+			"pagers_review_for",
+			"submission",
+			"eviewer_autocomplete",
+			"authorSearch",
+			"query",
+			"curr",
+			"auto",
+			"controller_name/function_test",
+			"reviewersDiv"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Point_TYPE_XYZ",
+			"Point_Type",
+			"lazy='joined'",
+			"lazy='joined' ",
+			"lazy='joined'",
+			"lazy='joint'",
+			"papertitle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hw1.py",
+					"settings":
+					{
+						"buffer_size": 11773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9478,
+								9478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4743.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
